@@ -13,3 +13,8 @@ Python 3
 
 ## Usage
 
+## Example Output
+
+
+![Port Scan Result](screenshots/result.png)
+
